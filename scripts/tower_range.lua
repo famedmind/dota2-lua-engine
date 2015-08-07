@@ -3,7 +3,6 @@ ownRange = false
 enemyRange = true
 towerRange = 850
 
--- Code
 
 local tower_kill_hook
 local game_start_hook
